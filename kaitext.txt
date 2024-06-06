@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KAI</title>
+</head>
+<body style="background-image: url('folklore.jpg'); background-attachment: fixed; background-size: cover; background-repeat: no-repeat; font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px; color: black;">
+
+    <div style="border: 4px solid #333; border-radius: 10px; padding: 40px; margin: 20px auto; max-width: 600px;">
+        <h1 style="font-size: 36px; color: #333;">KAI</h1>
+
+        <img src="kai.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 3px solid #333; margin-bottom: 20px;">
+
+        <h2 style="font-size: 36px; color: #333;">Meet Kyla Soriano</h2>
+
+        <ul style="list-style-type: none; padding: 0; font-size: 30px;">
+            <li><strong>Name:</strong> Kyla Soriano</li>
+            <br>
+            <li><strong>Age:</strong> 19</li>
+            <br>
+            <li><strong>Hobbies:</strong> Watching series and painting</li>
+            <br>
+            <li><strong>Likes:</strong> Reading and learning grammars</li>
+            <br>
+            <li><strong>Dislikes:</strong> People who don't support women empowerment</li>
+            <br>
+            <li><strong>Goals:</strong> To be a lawyer and to be a rich auntie</li>
+            <br>
+            <li><strong>Favorites:</strong> Spicy foods, Taylor Swift, and Expensive things</li>
+            <br>
+            <li><strong>Inspiration:</strong> Myself</li>
+            <br>
+            <br>
+            <li><strong>Motto/Quotes:</strong> "Karma is a relaxing thought"</li>
+            <br>
+        </ul>
+
+        <p style="font-size: 25px; font-style: italic; text-decoration: underline;">Thanks for visiting!</p>
+    </div>
+
+</body>
+</html>
